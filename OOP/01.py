@@ -25,7 +25,7 @@ class PythonStudent():
 
 # 实例化一个叫yueyue的学生，是一个具体的人
 yueyue = PythonStudent()
-print(yueyue.name = '小明')
+print(yueyue.name)
 print(yueyue.age)
 # 注意成员函数的调用没有传入参数
 yueyue.doHomework()
